@@ -1,1 +1,1 @@
-# COVID-19
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/2481898" data-url="https://flo.uri.sh/visualisation/2481898/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
